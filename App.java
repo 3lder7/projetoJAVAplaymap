@@ -8,7 +8,6 @@ public class App {
         CampoFutebol instCampo = new CampoFutebol();
         Agendamento instAgenda = new Agendamento(); 
         int user;
-
         do {
             String userInput = (String) JOptionPane.showInputDialog(
                 null,
